@@ -30,3 +30,5 @@ app.get('/:id', (req, res) => {
 app.listen(port, () => {
     console.log('running successfully');
 });
+
+module.exports = app;

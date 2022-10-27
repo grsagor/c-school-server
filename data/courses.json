@@ -3,7 +3,7 @@
         "id": "01",
         "name": "Introduction",
         "header": "First Day Of C Programming",
-        "Descrption": [
+        "descriptions": [
             {
                 "qus": "What is C?",
                 "ans": [
@@ -21,13 +21,13 @@
                 ]
             }
         ],
-        "picture": "https://ibb.co/2YMg5HM"
+        "picture": "https://i.ibb.co/cX8DxV8/01.png"
     },
     {
         "id": "02",
         "name": "Start",
         "header": "C Get Started",
-        "Descrption": [
+        "descriptions": [
             {
                 "qus": "C Install IDE",
                 "ans": [
@@ -45,13 +45,13 @@
                 ]
             }
         ],
-        "picture": "https://ibb.co/6s6kBk8"
+        "picture": "https://i.ibb.co/tCy9X9z/02.png"
     },
     {
         "id": "03",
         "name": "Comments",
         "header": "Comments In C",
-        "Descrption": [
+        "descriptions": [
             {
                 "qus": "Single-line Comments",
                 "ans": [
@@ -67,13 +67,13 @@
                 ]
             }
         ],
-        "picture": "https://ibb.co/bbSPmSC"
+        "picture": "https://i.ibb.co/qJtdjtc/03.png"
     },
     {
         "id": "04",
         "name": "C If ... Else",
         "header": "C If ... Else",
-        "Descrption": [
+        "descriptions": [
             {
                 "qus": "Conditions and If Statements",
                 "ans": [
@@ -95,13 +95,13 @@
                 ]
             }
         ],
-        "picture": "https://ibb.co/3vBcmpG"
+        "picture": "https://i.ibb.co/68gF0HV/04.png"
     },
     {
         "id": "05",
         "name": "Loop",
         "header": "Different Types Of Loops In C",
-        "Descrption": [
+        "descriptions": [
             {
                 "qus": "Loops",
                 "ans": [
@@ -124,13 +124,13 @@
                 ]
             }
         ],
-        "picture": "https://ibb.co/S3zhtpq"
+        "picture": "https://i.ibb.co/hmSPBvp/05.png"
     },
     {
         "id": "06",
-        "name": "Math ",
+        "name": "Math",
         "header": "C Math Functions",
-        "Descrption": [
+        "descriptions": [
             {
                 "qus": "Square Root",
                 "ans": [
@@ -151,6 +151,6 @@
             }
             
         ],
-        "picture": "https://ibb.co/brkFQBP"
+        "picture": "https://i.ibb.co/gDxdmT3/06.png"
     }
 ]

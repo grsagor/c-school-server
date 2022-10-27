@@ -1,26 +1,156 @@
 [
     {
         "id": "01",
-        "name": "java1"
+        "name": "Introduction",
+        "header": "First Day Of C Programming",
+        "Descrption": [
+            {
+                "qus": "What is C?",
+                "ans": [
+                    "C is a general-purpose programming language created by Dennis Ritchie at the Bell in 1972.",
+                    "It is a very popular language, despite being old.",
+                    "C is strongly associated with UNIX, as it was developed to write the UNIX operating system."
+            ]
+            },
+            {
+                "qus": "Why Learn C?",
+                "ans":  [
+                    "It is one of the most popular programming language in the world",
+                    "C is very fast, compared to other programming languages, like Java and Python",
+                    "C is very versatile; it can be used in both applications and technologies"
+                ]
+            }
+        ],
+        "picture": "https://ibb.co/2YMg5HM"
     },
     {
         "id": "02",
-        "name": "java2"
+        "name": "Start",
+        "header": "C Get Started",
+        "Descrption": [
+            {
+                "qus": "C Install IDE",
+                "ans": [
+                    "An IDE (Integrated Development Environment) is used to edit AND compile the code.",
+                    "Popular IDE's include Code::Blocks, Eclipse, and Visual Studio. These are all free, and they can be used to both edit and debug C code.",
+                    "You can find the latest version of Codeblocks at http://www.codeblocks.org/. Download the mingw-setup.exe file, which will install the text editor with a compiler."
+            ]
+            },
+            {
+                "qus": "C Quickstart",
+                "ans":  [
+                    "Let's create our first C file.",
+                    "Open Codeblocks and go to File > New > Empty File.",
+                    "Write the following C code and save the file as myfirstprogram.c (File > Save File as):"
+                ]
+            }
+        ],
+        "picture": "https://ibb.co/6s6kBk8"
     },
     {
         "id": "03",
-        "name": "java3"
+        "name": "Comments",
+        "header": "Comments In C",
+        "Descrption": [
+            {
+                "qus": "Single-line Comments",
+                "ans": [
+                    "Single-line comments start with two forward slashes (//).",
+                    "Any text between // and the end of the line is ignored by the compiler (will not be executed)."
+            ]
+            },
+            {
+                "qus": "C Multi-line Comments",
+                "ans":  [
+                    "Multi-line comments start with /* and ends with */.",
+                    "Any text between /* and */ will be ignored by the compiler:"
+                ]
+            }
+        ],
+        "picture": "https://ibb.co/bbSPmSC"
     },
     {
         "id": "04",
-        "name": "java4"
+        "name": "C If ... Else",
+        "header": "C If ... Else",
+        "Descrption": [
+            {
+                "qus": "Conditions and If Statements",
+                "ans": [
+                    "Less than: a < b",
+                    "Less than or equal to: a <= b",
+                    "Greater than: a > b",
+                    "Greater than or equal to: a >= b",
+                    "Equal to a == b",
+                    "Not Equal to: a != b"
+            ]
+            },
+            {
+                "qus": "C has the following conditional statements:",
+                "ans":  [
+                    "Use if to specify a block of code to be executed, if a specified condition is true",
+                    "Use else to specify a block of code to be executed, if the same condition is false",
+                    "Use else if to specify a new condition to test, if the first condition is false",
+                    "Use switch to specify many alternative blocks of code to be executed"
+                ]
+            }
+        ],
+        "picture": "https://ibb.co/3vBcmpG"
     },
     {
         "id": "05",
-        "name": "java5"
+        "name": "Loop",
+        "header": "Different Types Of Loops In C",
+        "Descrption": [
+            {
+                "qus": "Loops",
+                "ans": [
+                    "Loops can execute a block of code as long as a specified condition is reached.",
+                    "Loops are handy because they save time, reduce errors, and they make code more readable."
+            ]
+            },
+            {
+                "qus": "While Loop",
+                "ans":  [
+                    "The while loop loops through a block of code as long as a specified condition is true:"
+                ]
+            },
+            {
+                "qus": "For Loop",
+                "ans":  [
+                    "Statement 1 is executed (one time) before the execution of the code block.",
+                    "Statement 2 defines the condition for executing the code block.",
+                    "Statement 3 is executed (every time) after the code block has been executed."
+                ]
+            }
+        ],
+        "picture": "https://ibb.co/S3zhtpq"
     },
     {
         "id": "06",
-        "name": "java6"
+        "name": "Math ",
+        "header": "C Math Functions",
+        "Descrption": [
+            {
+                "qus": "Square Root",
+                "ans": [
+                    "To find the square root of a number, use the sqrt() function:"
+            ]
+            },
+            {
+                "qus": "Round a Number",
+                "ans": [
+                    "The ceil() function rounds a number upwards to its nearest integer, and the floor() method rounds a number downwards to its nearest integer, and returns the result:"
+            ]
+            },
+            {
+                "qus": "Power",
+                "ans": [
+                    "The pow() function returns the value of x to the power of y (xy):"
+            ]
+            }
+            
+        ],
+        "picture": "https://ibb.co/brkFQBP"
     }
 ]
